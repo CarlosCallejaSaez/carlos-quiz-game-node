@@ -27,3 +27,5 @@
 Este proyecto utiliza los siguientes paquetes npm:
 - **chalk**: Chalk es una biblioteca que proporciona estilos fáciles de usar para cadenas en la terminal. Se utiliza para colorear la salida de la consola y hacerla más visualmente atractiva.
 - **chalk-animation**: Chalk-animation extiende chalk agregando texto animado a las cadenas de la terminal. Se utiliza para mostrar un título colorido y animado al principio del juego.
+
+![carlosquizgame](https://github.com/CarlosCallejaSaez/carlos-quiz-game-node/assets/96349988/51eeccb9-5dd6-4b29-b4f7-36f07443bea4)
